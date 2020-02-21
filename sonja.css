@@ -1,0 +1,22 @@
+#view {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#form {
+    border: black solid 1px;
+    padding: 1%;
+}
+
+#form H1 {
+    font-family: Arial;
+}
+
+#form button{
+    height: 20px;
+    font-family: arial;
+    padding: 1px;
+}
+
