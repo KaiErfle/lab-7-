@@ -1,0 +1,28 @@
+#screen{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+#box{
+    padding: 2% ;
+    /* border: black solid 1px; */
+    /* background-color: pink; */
+}
+
+#box button{
+    height: 30px;
+    font-family: Helvetica;
+    border-radius: 10px;
+
+}
+
+#box input{
+    height: 30px;
+    /* border: pink solid 1px; */
+    background-color: rgb(248, 234, 237);
+}
+
+#box h1{
+    font-family: Helvetica;
+}
